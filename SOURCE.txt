@@ -1,0 +1,5 @@
+来源仓库：https://github.com/d3/d3-geo
+冻结 commit：bcfc112de60605429a9e9397109ae4de5b0674fa
+许可证：NOASSERTION
+导入日期：2026-11-15
+说明：本目录为评测底座，已剥离上游 git 历史，仅保留代码快照。

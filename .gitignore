@@ -1,0 +1,11 @@
+*.sublime-workspace
+.DS_Store
+dist/
+node_modules
+npm-debug.log
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+.cache/
