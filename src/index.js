@@ -4,6 +4,7 @@ export {default as geoCentroid} from "./centroid.js";
 export {default as geoCircle} from "./circle.js";
 export {default as geoClipAntimeridian} from "./clip/antimeridian.js";
 export {default as geoClipCircle} from "./clip/circle.js";
+export {default as geoClipConvex} from "./clip/convex.js";
 export {default as geoClipExtent} from "./clip/extent.js"; // DEPRECATED! Use d3.geoIdentity().clipExtent(…).
 export {default as geoClipRectangle} from "./clip/rectangle.js";
 export {default as geoContains} from "./contains.js";
